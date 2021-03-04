@@ -572,6 +572,7 @@ transform: scale( 1 , 0.25 ) translate( 0px , 16px);
     border:4px solid var(--border-color);
     position: relative;
     animation: spin 5.7s infinite linear;
+    box-shadow: 10px 10px 100px 15px var(--skin-color);
   }
   .sun-eye{
     width: 5px;
